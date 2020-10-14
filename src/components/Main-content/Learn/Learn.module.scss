@@ -1,0 +1,14 @@
+.cards_wrapper {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  transform-style: preserve-3d;
+  background: url("../../../assets/images/cat.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
